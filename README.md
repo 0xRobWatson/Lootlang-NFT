@@ -57,16 +57,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Twitter - [@0xTDF](https://twitter.com/0xTDF)
-
-LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
-
-Project Link: [https://github.com/0xBlueshiftLabs/Lootlang](https://github.com/0xBlueshiftLabs/Lootlang)
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
